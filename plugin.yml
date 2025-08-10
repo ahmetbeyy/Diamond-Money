@@ -1,0 +1,9 @@
+name: DiamondMoney
+version: 1.0
+main: me.ariscript.diamondmoney.KesePlugin
+api-version: 1.20
+commands:
+  kese:
+    description: Elmasları paraya çevir
+  iban:
+    description: Oyuncular arasında para gönder
